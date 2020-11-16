@@ -1,3 +1,10 @@
+# Exercício feito em Aula de uma toDoList 
+
+<img src="https://media.giphy.com/media/9sQN6RvEP9UWg9wDii/giphy.gif">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
